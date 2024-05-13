@@ -20,6 +20,11 @@ class OverviewScreen extends StatelessWidget {
                   width: 300,
                   height: 100,
                   color: Colors.grey,
+                ),
+                Container(
+                  width: 300,
+                  height: 100,
+                  color: Colors.red,
                 )
               ],
             ),
